@@ -25,7 +25,7 @@ function Navbar() {
           </NavLink>
 
           <a
-            href="https://drive.google.com/file/d/1d-73YrR9uitnpfBktrUVTyI91TF5_zUF/view?usp=sharing"
+            href="https://drive.google.com/file/d/1XbRUm6mgs_z_JaGXXNpfRT61TOufHqiX/view?usp=drive_link"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-gray-300 transition"
