@@ -16,7 +16,7 @@ function Codeforces() {
     try {
       setLoading(true);
 
-      const res = await fetch("http://127.0.0.1:8001/forecast", {
+      const res = await fetch("https://cf-predictor-1-8kxz.onrender.com/forecast", {
         method: "POST",
         headers: {
           "Content-Type": "application/json"
