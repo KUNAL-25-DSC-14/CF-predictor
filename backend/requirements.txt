@@ -1,0 +1,11 @@
+fastapi
+
+pandas
+
+numpy
+
+requests
+
+scikit-learn
+
+joblib
