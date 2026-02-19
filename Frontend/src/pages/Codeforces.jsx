@@ -1,4 +1,5 @@
 import { useState, useRef } from "react";
+import bg from "./assets/bg-code1.jpg";
 
 function Codeforces() {
   const [handle, setHandle] = useState("");
